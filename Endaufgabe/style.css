@@ -1,0 +1,62 @@
+body {
+    /*background-image: url("bilder/blue.jpg");*/
+    background-color: black;
+}
+
+.speed {
+    color: white;
+    font-size: 3em;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.button1 {
+    cursor: pointer;
+    background-color:#ffb90f;
+	border-color:#ffb90f;
+    width:300px; height:300px;
+    border-style:solid;
+    border-radius: 100px;
+    border-top-left-radius: 800px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+  .button2 {
+    cursor: pointer;
+    background-color:red;
+    width:300px;
+	border-color:red;
+    height:300px;
+    border-style:solid;
+    border-radius:100px;
+    border-top-right-radius:800px;
+    text-shadow: 2px 2px 4px #000000;
+ }
+
+ .button3 {
+    cursor: pointer;
+    background-color:green;
+	border-color:green;
+    width:300px;
+    height:300px;
+    border-style:solid;
+    border-radius: 100px;
+    border-bottom-left-radius: 800px;
+    text-shadow: 5px 5px 10px #000000;
+ }
+
+  .button4 {
+    cursor: pointer;
+    background-color:blue;
+    width:300px; height:300px;
+    border-style:solid;
+	border-color:blue;
+    border-radius:100px;
+    border-bottom-right-radius:800px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+  
